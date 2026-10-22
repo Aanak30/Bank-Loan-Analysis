@@ -21,6 +21,18 @@ Explores lending trends and borrower characteristics using visualizations such a
 ### 3. Details
 Provides a detailed view of loan-level information to support further analysis.
 
+## Dashboard Preview
+
+### 1. Summary Dashboard
+![Bank Loan Summary Dashboard](Summary.png)
+
+### 2. Overview Dashboard
+![Bank Loan Overview Dashboard](Overview.png)
+
+### 3. Details Dashboard
+![Bank Loan Details Dashboard](Details.png)
+
+
 ## Tools Used
 - **Power BI** — dashboard development and data visualization
 - **PostgreSQL** — used during project analysis
